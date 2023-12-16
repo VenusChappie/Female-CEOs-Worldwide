@@ -1,0 +1,25 @@
+company,rank,rank_change,revenue,profit,num. of employees,sector,city,state,newcomer,ceo_founder,ceo_woman,profitable,prev_rank,CEO,Website,Ticker,Market Cap
+Walmart,1,0,572754,13673,2300000,Retailing,Bentonville,AR,no,no,no,yes,1,C. Douglas McMillon,https://www.stock.walmart.com,WMT,352037
+Amazon,2,0,469822,33364,1608000,Retailing,Seattle,WA,no,no,no,yes,2,Andrew R. Jassy,www.amazon.com,AMZN,1202717
+Apple,3,0,365817,94680,154000,Technology,Cupertino,CA,no,no,no,yes,3,Timothy D. Cook,www.apple.com,AAPL,2443962
+CVS Health,4,0,292111,7910,258000,Health Care,Woonsocket,RI,no,no,yes,yes,4,Karen Lynch,https://www.cvshealth.com,CVS,125204
+UnitedHealth Group,5,0,287597,17285,350000,Health Care,Minnetonka,MN,no,no,no,yes,5,Andrew P. Witty,www.unitedhealthgroup.com,UNH,500468
+Exxon Mobil,6,4,285640,23040,63000,Energy,Irving,TX,no,no,no,yes,10,Darren W. Woods,www.exxonmobil.com,XOM,371841
+Berkshire Hathaway,7,-1,276094,89795,372000,Financials,Omaha,NE,no,no,no,yes,6,Warren E. Buffett,www.berkshirehathaway.com,BRKA,625468
+Alphabet,8,1,257637,76033,156500,Technology,Mountain View,CA,no,no,no,yes,9,Sundar Pichai,https://www.abc.xyz,GOOGL,1309359
+McKesson,9,-2,238228,-4539,67500,Health Care,Irving,TX,no,no,no,no,7,Brian S. Tyler,www.mckesson.com,MCK,47377
+AmerisourceBergen,10,-2,213988.8,1539.9,40000,Health Care,Conshohocken,PA,no,no,no,yes,8,Steven H. Collis,www.amerisourcebergen.com,ABC,29972
+Costco Wholesale,11,1,195929,5007,288000,Retailing,Issaquah,WA,no,no,no,yes,12,W. Craig Jelinek,www.costco.com,COST,230443
+Cigna,12,1,174078,5365,72963,Health Care,Bloomfield,CT,no,no,no,yes,13,David Cordani,https://www.cigna.com,CI,88459
+AT&T,13,-2,168864,20081,202600,Telecommunications,Dallas,TX,no,no,no,yes,11,John T. Stankey,www.att.com,T,148907
+Microsoft,14,1,168088,61271,181000,Technology,Redmond,WA,no,no,no,yes,15,Satya Nadella,www.microsoft.com,MSFT,1941033
+Cardinal Health,15,-1,162467,611,46827,Health Care,Dublin,OH,no,no,no,yes,14,Jason Hollar,www.cardinalhealth.com,CAH,15169
+Chevron,16,11,162465,15625,42595,Energy,San Ramon,CA,no,no,no,yes,27,Michael K. Wirth,www.chevron.com,CVX,284132
+Home Depot,17,1,151157,16433,490600,Retailing,Atlanta,GA,no,no,no,yes,18,Edward P. Decker,www.homedepot.com,HD,308152
+Walgreens Boots Alliance,18,-2,148579,2542,258500,Food & Drug Stores,Deerfield,IL,no,no,yes,yes,16,Roz Brewer,www.walgreensbootsalliance.com,WBA,33360
+Marathon Petroleum,19,13,141032,9738,17700,Energy,Findlay,OH,no,no,no,yes,32,Michael J. Hennigan,www.marathonpetroleum.com,MPC,47526
+Elevance Health,20,3,138639,6104,98200,Health Care,Indianapolis,IN,no,no,yes,yes,23,Gail K. Boudreaux,www.elevancehealth.com,ELV,119923
+Kroger,21,-4,137888,1655,420000,Food & Drug Stores,Cincinnati,OH,no,no,no,yes,17,W. Rodney McMullen,www.thekrogerco.com,KR,33846
+Ford Motor,22,-1,136341,17937,183000,Motor Vehicles & Parts,Dearborn,MI,no,no,no,yes,21,James D. Farley Jr.,www.ford.com,F,50609
+Verizon Communications,23,-3,133613,22065,118400,Telecommunications,New York,NY,no,no,no,yes,20,Hans E. Vestberg,www.verizon.com,VZ,211872
+JPMorgan Chase,24,-5,127202,48334,271025,Financials,New York,NY,no,no,no,yes,19,James Dimon,www.jpmorganchase.com,JPM,336469
