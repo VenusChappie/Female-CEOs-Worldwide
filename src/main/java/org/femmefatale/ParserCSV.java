@@ -23,6 +23,7 @@ public class ParserCSV {
             }
             mainArr.add("\n");
         }
+        System.out.println(mainArr);
         return mainArr;
     }
 
