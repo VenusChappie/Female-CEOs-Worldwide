@@ -3,6 +3,7 @@ package org.femmefatale;
 import java.io.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ParserCSV {
@@ -16,14 +17,14 @@ public class ParserCSV {
 
         while ((line = br.readLine()) != null) {
 
-            tempArr = line.split(",");
-
+            tempArr = line.split(" ");
+            System.out.println(tempArr);
             for (String item : tempArr)  {
+
                 mainArr.add(item);
             }
             mainArr.add("\n");
         }
-        System.out.println(mainArr);
         return mainArr;
     }
 
