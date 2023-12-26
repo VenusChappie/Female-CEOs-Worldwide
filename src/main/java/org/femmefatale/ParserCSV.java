@@ -8,23 +8,23 @@ import java.util.List;
 
 public class ParserCSV {
 
-    public static ArrayList<String> validData(File csvFile) throws IOException {
+    public static List<List> validData(File csvFile) throws IOException {
 
         BufferedReader br = new BufferedReader(new FileReader(csvFile));
         String line = "";
-        String[] tempArr;
-        ArrayList<String> mainArr = new ArrayList<>();
+//        List<String> tempArr;
+        List<List> mainArr = new ArrayList<>();
 
         while ((line = br.readLine()) != null) {
 
-            tempArr = line.split(" ");
-            System.out.println(tempArr);
-            for (String item : tempArr)  {
-
-                mainArr.add(item);
-            }
-            mainArr.add("\n");
+            List<String> convertedArrayPlease = Arrays.asList(line.split(",", -1));
+            mainArr.add(convertedArrayPlease);
         }
+
+        for(List<String> item : mainArr)    {
+//            System.out.println(item);
+        }
+
         return mainArr;
     }
 
